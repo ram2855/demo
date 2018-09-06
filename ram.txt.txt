@@ -4,3 +4,4 @@ welcome to git
 my 5th line
 4th line
 9th line
+6th line
