@@ -6,5 +6,9 @@ my 2nd line
 poraaaaae
 17th line
 my liuneeee
+<<<<<<< HEAD
 77777777777777777777777777777
 fjdhjfjdhjfhdjfhjd
+=======
+9999999999999999999999999999999
+>>>>>>> refs/remotes/origin/master
