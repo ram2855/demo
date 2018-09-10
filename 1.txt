@@ -11,4 +11,8 @@ my liuneeee
 fjdhjfjdhjfhdjfhjd
 =======
 9999999999999999999999999999999
->>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/origin/maste
+1234123
+1234
+12324
+1234r
